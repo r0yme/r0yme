@@ -41,5 +41,6 @@ Feel free to reach out! Let's create something awesome together. 😊✨
 
 ## Contact
 
-For any inquiries or collaborations, feel free to reach out to me at shaanroy@email.com.
+For any inquiries or collaborations, feel free to reach out to me at contact@shaanroy.com
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logoColor=white)](mailto:contat@shaanroy.com).
 
